@@ -13,8 +13,10 @@ This command-line interface (CLI) script allows you to fetch and display informa
 ## Prerequisites
 
 - Python 3.x
-- Required Python libraries (install using `pip install -r requirements.txt`):
+- Required Python libraries:
   - requests
+  - argparse
+  - csv
 
 ## Usage
 
